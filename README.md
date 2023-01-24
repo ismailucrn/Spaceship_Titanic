@@ -13,7 +13,7 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 Help save them and change history!
 
 
-##File and Data Field Descriptions
+#File and Data Field Descriptions
 
 train.csv - Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
 
